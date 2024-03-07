@@ -13,7 +13,7 @@ This repo is part of an assignment for the HPC course at UTD. This assignment in
 ## Installing dependancies
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## License
 This project is licensed under the MIT License - see the `LICENSE.md` file for details.
