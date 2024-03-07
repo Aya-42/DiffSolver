@@ -4,7 +4,7 @@ This repo is part of an assignment for the HPC course at UTD. This assignment in
 
 
 ## Repository Structure
-- `DiffSolver.py`: The core class encapsulating the Euler method. It has the potential to exapnd to other methods, as it is a superclass. I wanted it to include optimized Numba implmentation but failed due to NUMBA limitation.
+- `DiffSolver.py`: A superclass in Python for differential equation solvers. Currently, it implements Euler's method, with scope for adding more solution techniques. I wanted it to include optimized Euler via Numba implmentation but failed due to NUMBA limitations with type of objects.
 - `DiffSolver_simple_tests.py`: Contains 2 unit tests for `DiffSolver.py` to validate the correctness of the Euler method implementation against known solutions.
 - `Step_Experiment.py`: A script to conduct experiments with various step sizes and analyze their impact on the accuracy of the differential equation solutions.
 - `Performance_Analysis.py`: A Script dedicated to analyzing and comparing the performance of the optimized Euler method against the non-optimized version.
@@ -13,3 +13,12 @@ This repo is part of an assignment for the HPC course at UTD. This assignment in
 ## Installing dependancies
 ```bash
 pip install -r requirements.txt
+
+
+## License
+This project is licensed under the MIT License - see the `LICENSE.md` file for details.
+
+---
+**NOTE:**
+
+This README is a work in progress. Instructions and descriptions will be expanded in future revisions.
