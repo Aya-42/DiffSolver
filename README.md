@@ -1,6 +1,6 @@
 # Overview
 
-This repo is part of an assignment for the HPC course at UTD. This assignment involves implementing the Euler method to solve a specific ODE, exploring the effects of step size on the solution’s accuracy, and optimizing the implementation for performance using Python’s advanced numerical and parallel computing libraries.
+This repo is part of an assignment for the HPC course at UTD. This assignment involves implementing [the Euler method](https://en.wikipedia.org/wiki/Euler_method#:~:text=The%20Euler%20method%20is%20a,proportional%20to%20the%20step%20size.) to solve a specific ODE, exploring the effects of step size on the solution’s accuracy, and optimizing the implementation for performance using Python’s advanced numerical and parallel computing libraries.
 
 
 ## Repository Structure
