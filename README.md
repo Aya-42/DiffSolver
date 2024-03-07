@@ -21,4 +21,4 @@ This project is licensed under the MIT License - see the `LICENSE.md` file for d
 ---
 **NOTE:**
 
-This README is a work in progress. Instructions and descriptions will be expanded in future revisions.
+This README is a work in progress. Improvements and corrections will be added in future revisions.
